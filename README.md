@@ -23,11 +23,11 @@ This project analyzes the **Global Weather Repository dataset** (137,413 rows, 4
 
 ##  Project Structure
 weather-forecasting/
-├── data/                  # Dataset folder
-├── outputs/               # Saved charts and HTML files
-├── notebook.ipynb         # Main analysis notebook
-├── requirements.txt       # Dependencies
-└── README.md              # Project documentation
+├── data/                  
+├── outputs/               
+├── notebook.ipynb         
+├── requirements.txt       
+└── README.md             
 
 ---
 
